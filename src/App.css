@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.food-image {
+  width: 200px;
+}
+
+.food-card {
+  background: #f8f9fa;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  background: #e9ecef !important;
+}
